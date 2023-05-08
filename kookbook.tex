@@ -1,0 +1,45 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{multicol}
+
+\makeatletter
+% we use \prefix@<level> only if it is defined
+\renewcommand{\@seccntformat}[1]{%
+  \ifcsname prefix@#1\endcsname
+    \csname prefix@#1\endcsname
+  \else
+    \csname the#1\endcsname\quad
+  \fi}
+% define \prefix@section
+\newcommand\prefix@section{}
+\newcommand\prefix@subsection{}
+\newcommand\prefix@subsubsection{}
+\makeatother
+
+\title{Recepten}
+\author{Tijmen van der Spijk}
+\date{November 2022}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\pagebreak
+
+\section{Vegetarisch}
+\input{recepten/vegetarisch/pinto}
+\pagebreak
+\input{recepten/vegetarisch/lasagne}
+\pagebreak
+
+
+\section{Vlees}
+\input{recepten/vlees/rijst_worst}
+\pagebreak
+
+\section{Vis}
+\input{recepten/vis/pasta_zalm.tex}
+\pagebreak
+
+\end{document}

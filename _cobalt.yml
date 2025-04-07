@@ -1,0 +1,6 @@
+site:
+  title: Kookboek
+  description: Een collectie van recepten verzameld over de jaren heen
+  base_url: http://example.com
+posts:
+  rss: rss.xml

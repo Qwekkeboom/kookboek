@@ -8,7 +8,6 @@ data:
   image: /path/to/image
 tags:
 - Ontbijt
-is_draft: true
 ---
 # {{ page.title }}
 

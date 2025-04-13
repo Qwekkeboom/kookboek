@@ -27,7 +27,7 @@ jobs:
           ~/.cargo/bin/cobalt build -d public
       
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-artifact@v4
         with:
           path: ./public
 

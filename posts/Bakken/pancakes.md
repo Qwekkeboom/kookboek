@@ -7,20 +7,22 @@ data:
   cook_time: 30 min
   image: /path/to/image
 tags:
-- Tag 1
-- Tag 2
+- Ontbijt
 is_draft: true
 ---
 # {{ page.title }}
 
 Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
-## Ingrediënten
-- Ingredient 1
-- Ingredient 2
-- Ingredient 3
+## Ingrediënten (4-6)
+- 1 ei
+- 333 ml karnemelk
+- 200 gram bloem
+- 10 gram baking soda
+- zout
 
 ## Bereiding
-1. Step one
-2. Step two
-3. Step three
+1. Mix het ei met de karnemelk en klop alles goed los
+2. Voeg alle droge ingrediënten erbij en mix to een dik beslag
+3. Bak in een koekenpan over laag vuur met een beetje boter aan beide kanten
+4. Serveer met wat kwart en vruchten voor een heerlijk ontbijt

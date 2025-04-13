@@ -2,7 +2,7 @@
 title: Vega Lasagne
 layout: default.liquid
 data:
-  category: Dinner
+  category: Pasta
   prep_time: 15 min
   image: /path/to/image
   cook_time: 30 min

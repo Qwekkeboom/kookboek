@@ -6,7 +6,7 @@ tags:
 layout: default.liquid
 is_draft: true
 data:
-  category: Dinner
+  category: Rijst
   prep_time: 15 min
   image: /path/to/image
   cook_time: 30 min

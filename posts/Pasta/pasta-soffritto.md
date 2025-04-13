@@ -2,7 +2,7 @@
 title: Pasta Soffritto
 layout: default.liquid
 data:
-  category: Dinner
+  category: Pasta
   prep_time: 15 min
   cook_time: 30 min
   image: /path/to/image

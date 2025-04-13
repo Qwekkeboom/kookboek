@@ -8,7 +8,7 @@ is_draft: true
 data:
   cook_time: 30 min
   prep_time: 15 min
-  category: Dinner
+  category: Soep
   image: /path/to/image
 ---
 # {{ page.title }}

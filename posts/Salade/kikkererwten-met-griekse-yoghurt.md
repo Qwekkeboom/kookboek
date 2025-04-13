@@ -7,7 +7,7 @@ layout: default.liquid
 is_draft: true
 data:
   cook_time: 30 min
-  category: Dinner
+  category: Salade
   prep_time: 15 min
   image: /path/to/image
 ---

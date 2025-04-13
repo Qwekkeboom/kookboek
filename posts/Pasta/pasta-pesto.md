@@ -2,7 +2,7 @@
 title: Pasta Pesto
 layout: default.liquid
 data:
-  category: Dinner
+  category: Pasta
   cook_time: 30 min
   prep_time: 15 min
   image: /path/to/image

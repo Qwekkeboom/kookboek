@@ -1,15 +1,15 @@
 ---
 title: Wentelteefjes met Perzik
+layout: default.liquid
+data:
+  category: Ontbijt
+  prep_time: 15 min
+  cook_time: 30 min
+  image: /path/to/image
 tags:
 - Tag 1
 - Tag 2
-layout: default.liquid
 is_draft: true
-data:
-  prep_time: 15 min
-  image: /path/to/image
-  category: Dinner
-  cook_time: 30 min
 ---
 # {{ page.title }}
 

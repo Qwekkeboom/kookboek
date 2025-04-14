@@ -7,20 +7,20 @@ data:
   cook_time: 30 min
   image: /path/to/image
 tags:
-- Tag 1
-- Tag 2
-is_draft: true
+- Ontbijt
 ---
 # {{ page.title }}
 
 Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
 ## Ingrediënten
-- Ingredient 1
-- Ingredient 2
-- Ingredient 3
+- 2 eieren
+- 250 gram bloem
+- 500 ml melk
+- zout
+- custard
 
 ## Bereiding
-1. Step one
-2. Step two
-3. Step three
+1. Mix alle ingrediënten tot een glad beslag
+2. Bak alle de pannenkoeken in een koekenpan met wat boter over middel hoog vuur
+3. Eet smakelijk

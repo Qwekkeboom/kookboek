@@ -7,20 +7,24 @@ data:
   prep_time: 15 min
   image: /path/to/image
 tags:
-- Tag 1
-- Tag 2
-is_draft: true
+- Vis
 ---
 # {{ page.title }}
 
 Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
 ## Ingrediënten
-- Ingredient 1
-- Ingredient 2
-- Ingredient 3
+- 1 bosje bosui
+- 4 tomaten
+- 200 ml creme fraise
+- 250 gram gerookte zalm
+- 400 gram pasta
 
 ## Bereiding
-1. Step one
-2. Step two
-3. Step three
+1. Kook de pasta al dente met wat zout
+2. Snij de tomaat in blokjes en de ui in ringen
+3. Was de ui af en bak deze kort in een pan met een klein beetje olie
+4. Voeg de zalm en tomaat toe en bak alles nog even kort door
+5. Voeg de creme fraise toe en meng alles door elkaar
+6. Giet de pasta af en voeg deze bij de saus
+7. Breng alles op smaak met wat vers gemalen peper en eventueel was zout

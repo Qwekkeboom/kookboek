@@ -2,7 +2,7 @@
 title: Pancakes
 layout: default.liquid
 data:
-  category: Bakken
+  category: Ontbijt
   prep_time: 15 min
   cook_time: 30 min
   image: /path/to/image

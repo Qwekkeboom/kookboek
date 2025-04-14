@@ -6,7 +6,7 @@ tags:
 layout: default.liquid
 is_draft: true
 data:
-  category: Dinner
+  category: Bakken
   prep_time: 15 min
   cook_time: 30 min
   image: /path/to/image

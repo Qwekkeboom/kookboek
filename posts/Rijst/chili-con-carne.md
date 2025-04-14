@@ -5,7 +5,7 @@ data:
   image: /path/to/image
   prep_time: 15 min
   cook_time: 30 min
-  category: Dinner
+  category: Rijst
 tags:
 - Tag 1
 - Tag 2

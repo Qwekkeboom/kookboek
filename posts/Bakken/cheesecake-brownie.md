@@ -8,7 +8,7 @@ is_draft: true
 data:
   prep_time: 15 min
   cook_time: 30 min
-  category: Dinner
+  category: Bakken
   image: /path/to/image
 ---
 # {{ page.title }}

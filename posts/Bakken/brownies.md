@@ -3,8 +3,8 @@ title: Brownies
 layout: default.liquid
 data:
   category: Bakken
+  prep_time: 60 min
   cook_time: 30 min
-  prep_time: 30 min
   image: /path/to/image
 tags:
   - Zoet

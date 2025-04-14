@@ -3,8 +3,8 @@ title: Pasta met Zalm
 layout: default.liquid
 data:
   category: Pasta
-  cook_time: 30 min
   prep_time: 15 min
+  cook_time: 30 min
   image: /path/to/image
 tags:
 - Vis

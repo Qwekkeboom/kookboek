@@ -3,8 +3,8 @@ title: Scones
 layout: default.liquid
 data:
   category: Bakken
-  cook_time: 30 min
   prep_time: 15 min
+  cook_time: 30 min
   image: /path/to/image
 tags:
   - Zoet

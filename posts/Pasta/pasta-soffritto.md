@@ -3,8 +3,8 @@ title: Pasta Soffritto
 layout: default.liquid
 data:
   category: Pasta
-  prep_time: 15 min
-  cook_time: 30 min
+  prep_time: 30 min
+  cook_time: 45 min
   image: /path/to/image
 tags:
 - Tag 1

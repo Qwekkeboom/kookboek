@@ -3,8 +3,6 @@ layout: default.liquid
 title: Kookboek
 ---
 
-
-
 {% assign categories = collections.posts.pages | map: "data" | map: "category" | uniq | sort %}
 
 {% for category in categories %}

@@ -8,7 +8,7 @@ data:
   image: /path/to/image
 tags:
 - Simpel
-is_draft: true
+- Vegetarisch
 ---
 # {{ page.title }}
 

@@ -7,9 +7,8 @@ data:
   image: /path/to/image
   cook_time: 30 min
 tags:
-- Tag 1
-- Tag 2
-is_draft: true
+- Vegetarisch
+- Meal Prep
 ---
 # {{ page.title }}
 

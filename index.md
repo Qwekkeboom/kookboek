@@ -20,7 +20,7 @@ title: Kookboek
 </div>
 <div class="recipe-tags">
 {% for tag in post.tags %}
-<span class="tag">{{ tag }}</span>
+<span class="tag tag-{{ tag | downcase }}">{{ tag }}</span>
 {% endfor %}
 </div>
 </div>

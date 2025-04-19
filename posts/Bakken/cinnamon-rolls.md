@@ -9,7 +9,7 @@ data:
   category: Bakken
   prep_time: 15 min
   cook_time: 30 min
-  image: /path/to/image
+  image: assets/images/cinnamonrolls.jpg
 ---
 # {{ page.title }}
 

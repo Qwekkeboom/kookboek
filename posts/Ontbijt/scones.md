@@ -31,3 +31,5 @@ Voorbereiding: {{ page.data.prep_time }} | Baktijd: {{ page.data.cook_time }}
 6. Bestuif je werkblad met wat bloem en rol het deeg uit tot een dikte van 2 cm
 7. Steen rondjes uit het deeg met een glas of steekvorm van ongeveer 6 cm Ø
 8. Bak de scones voor ongeveer 10 minuten
+
+![alt text](../../{{page.data.image}})

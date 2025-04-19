@@ -7,8 +7,7 @@ data:
   cook_time: 30 min
   image: /path/to/image
 tags:
-  - Tag 1
-  - Tag 2
+  - Bakken
 ---
 # {{ page.title }}
 

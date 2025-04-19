@@ -26,3 +26,5 @@ Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.c
 1. Step one
 2. Step two
 3. Step three
+
+![alt text](../../{{page.data.image}})

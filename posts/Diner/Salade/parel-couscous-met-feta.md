@@ -1,14 +1,14 @@
 ---
-title: Chili con Carne
+title: Parel Couscous met Feta
 layout: default.liquid
 data:
-  image: /path/to/image
-  prep_time: 15 min
+  category: Dinner - Salade
+  prep_time: 30 min
   cook_time: 30 min
-  category: Rijst
+  description: A short description about the recipe
 tags:
-- Tag 1
-- Tag 2
+- Vegetarisch
+- Makkelijk
 is_draft: true
 ---
 # {{ page.title }}

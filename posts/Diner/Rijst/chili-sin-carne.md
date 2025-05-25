@@ -1,15 +1,15 @@
 ---
-title: Kikkererwten met Griekse Yoghurt
-tags:
-- Tag 1
-- Tag 2
+title: Chili sin Carne
 layout: default.liquid
-is_draft: true
 data:
+  category: Dinner - Rijst
+  prep_time: 30 min
   cook_time: 30 min
-  category: Salade
-  prep_time: 15 min
-  image: /path/to/image
+  description: A short description about the recipe
+tags:
+- Vegetarisch
+- Prep
+is_draft: true
 ---
 # {{ page.title }}
 

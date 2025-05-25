@@ -1,24 +1,23 @@
 ---
-title: Parel Couscous met Feta
-tags:
-- Tag 1
-- Tag 2
+title: Pasta Carbonara
 layout: default.liquid
-is_draft: true
 data:
+  category: Dinner - Pasta
   prep_time: 15 min
-  category: Salade
-  image: /path/to/image
   cook_time: 30 min
+  description: A short description about the recipe
+tags:
+- Makkelijk
 ---
 # {{ page.title }}
 
 Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
 ## Ingrediënten
-- Ingredient 1
-- Ingredient 2
-- Ingredient 3
+- 4 eieren
+- 200 gram Parmezaanse kaas
+- 250 gram spek
+- 400 gram pasta
 
 ## Bereiding
 1. Step one

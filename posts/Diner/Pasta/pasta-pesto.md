@@ -2,12 +2,12 @@
 title: Pasta Pesto
 layout: default.liquid
 data:
-  category: Pasta
+  category: Dinner - Pasta
   prep_time: 30 min
   cook_time: 15 min
-  image: /path/to/image
+  description: A short description about the recipe
 tags:
-- Simpel
+- Makkelijk
 - Vegetarisch
 ---
 # {{ page.title }}

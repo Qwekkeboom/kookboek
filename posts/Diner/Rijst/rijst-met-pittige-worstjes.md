@@ -1,15 +1,14 @@
 ---
-title: Chili sin Carne
-tags:
-- Tag 1
-- Tag 2
+title: Rijst met Pittige Worstjes
 layout: default.liquid
-is_draft: true
 data:
-  category: Rijst
+  category: Dinner - Rijst
+  prep_time: 30 min
   cook_time: 30 min
-  image: /path/to/image
-  prep_time: 15 min
+  description: A short description about the recipe
+tags:
+- Vlees
+is_draft: true
 ---
 # {{ page.title }}
 

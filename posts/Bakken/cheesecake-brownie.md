@@ -1,15 +1,14 @@
 ---
 title: Cheesecake-Brownie
-tags:
-- Tag 1
-- Tag 2
 layout: default.liquid
-is_draft: true
 data:
-  prep_time: 15 min
-  cook_time: 30 min
   category: Bakken
-  image: /path/to/image
+  prep_time: 15 min
+  cook_time: 45 min
+  description: A short description about the recipe
+tags:
+- Gebak
+is_draft: true
 ---
 # {{ page.title }}
 

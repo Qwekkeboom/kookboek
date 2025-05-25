@@ -5,10 +5,9 @@ data:
   category: Bakken
   prep_time: 30 min
   cook_time: 60 min
-  image: /path/to/image
+  description: A short description about the recipe
 tags:
-- Simpel
-- Koelkast
+- Makkelijk
 ---
 # {{ page.title }}
 

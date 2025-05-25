@@ -2,12 +2,11 @@
 title: Pompoen-Geitenkaas Taartjes
 layout: default.liquid
 data:
-  category: Bladerdeeg
+  category: Dinner - Oven
   prep_time: 30 min
   cook_time: 20 min
-  image: /path/to/image
+  description: A short description about the recipe
 tags:
-- Oven
 - Vegetarisch
 ---
 # {{ page.title }}

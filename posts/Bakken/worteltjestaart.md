@@ -4,10 +4,11 @@ layout: default.liquid
 data:
   category: Bakken
   prep_time: 15 min
-  cook_time: 30 min
-  image: /path/to/image
+  cook_time: 45 min
+  description: A short description about the recipe
 tags:
-  - Bakken
+- Gebak
+is_draft: true
 ---
 # {{ page.title }}
 

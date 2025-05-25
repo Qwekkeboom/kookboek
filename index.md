@@ -11,12 +11,10 @@ title: Kookboek
 {% for post in collections.posts.pages %}
 {% if post.data.category == category %}
 <div class="recipe-card">
-<img src="{{ post.data.image }}" class="recipe-image">
 <div class="recipe-content">
 <h3 class="recipe-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
 <div class="recipe-meta">
-<span>Prep: {{ post.data.prep_time }}</span>
-<span>Cook: {{ post.data.cook_time }}</span>
+<span>{{ post.data.description }}</span>
 </div>
 <div class="recipe-tags">
 {% for tag in post.tags %}

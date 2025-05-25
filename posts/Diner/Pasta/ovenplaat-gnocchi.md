@@ -2,13 +2,12 @@
 title: Ovenplaat Gnocchi
 layout: default.liquid
 data:
-  category: Pasta
+  category: Dinner - Pasta
   prep_time: 15 min
   cook_time: 30 min
-  image: /path/to/image
+  description: A short description about the recipe
 tags:
-- Oven
-- No Pans
+- Makkelijk
 ---
 # {{ page.title }}
 

@@ -5,9 +5,9 @@ data:
   category: Ontbijt
   prep_time: 15 min
   cook_time: 30 min
-  image: assets/images/pancakes.jpg
+  description: A short description about the recipe
 tags:
-- Ontbijt
+- Makkelijk
 ---
 # {{ page.title }}
 

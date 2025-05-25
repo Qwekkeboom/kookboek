@@ -5,7 +5,7 @@ data: {
   category: Dinner,
   prep_time: 15 min,
   cook_time: 30 min,
-  image: /path/to/image
+  description: A short description about the recipe
 }
 tags:
   - Tag 1
@@ -26,5 +26,3 @@ Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.c
 1. Step one
 2. Step two
 3. Step three
-
-![alt text](../../{{page.data.image}})

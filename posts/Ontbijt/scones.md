@@ -5,10 +5,9 @@ data:
   category: Ontbijt
   prep_time: 15 min
   cook_time: 30 min
-  image: assets/images/scoons.jpg
+  description: A short description about the recipe
 tags:
-  - Zoet
-  - Simpel
+- Makkelijk
 ---
 # {{ page.title }}
 
@@ -32,4 +31,3 @@ Voorbereiding: {{ page.data.prep_time }} | Baktijd: {{ page.data.cook_time }}
 7. Steen rondjes uit het deeg met een glas of steekvorm van ongeveer 6 cm Ø
 8. Bak de scones voor ongeveer 10 minuten
 
-![alt text](../../{{page.data.image}})

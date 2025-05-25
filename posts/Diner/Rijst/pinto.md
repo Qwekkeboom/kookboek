@@ -1,15 +1,14 @@
 ---
 title: Pinto
-tags:
-- Tag 1
-- Tag 2
 layout: default.liquid
-is_draft: true
 data:
-  image: /path/to/image
-  category: Rijst
+  category: Dinner - Rijst
+  prep_time: 30 min
   cook_time: 30 min
-  prep_time: 15 min
+  description: A short description about the recipe
+tags:
+- Vegeratisch
+is_draft: true
 ---
 # {{ page.title }}
 

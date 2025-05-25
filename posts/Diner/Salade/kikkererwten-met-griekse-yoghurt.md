@@ -1,14 +1,13 @@
 ---
-title: Pasta Soffritto
+title: Kikkererwten met Griekse Yoghurt
 layout: default.liquid
 data:
-  category: Pasta
+  category: Dinner - Salade
   prep_time: 30 min
-  cook_time: 45 min
-  image: /path/to/image
+  cook_time: 30 min
+  description: A short description about the recipe
 tags:
-- Tag 1
-- Tag 2
+- Vegetarisch
 is_draft: true
 ---
 # {{ page.title }}

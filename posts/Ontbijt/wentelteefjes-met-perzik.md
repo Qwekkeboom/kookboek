@@ -5,10 +5,10 @@ data:
   category: Ontbijt
   prep_time: 15 min
   cook_time: 30 min
-  image: assets/images/wentelteefjes.jpg
+  description: A short description about the recipe
 tags:
-- Tag 1
-- Tag 2
+- Makkelijk
+- Vlees
 is_draft: true
 ---
 # {{ page.title }}

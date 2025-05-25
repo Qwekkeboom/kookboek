@@ -1,15 +1,15 @@
 ---
-title: Rijst met Pittige Worstjes
-tags:
-- Tag 1
-- Tag 2
+title: Pasta Soffritto
 layout: default.liquid
-is_draft: true
 data:
-  category: Rijst
-  prep_time: 15 min
-  image: /path/to/image
-  cook_time: 30 min
+  category: Dinner - Pasta
+  prep_time: 30 min
+  cook_time: 45 min
+  description: A short description about the recipe
+tags:
+- Vegetarisch
+- Prep
+is_draft: true
 ---
 # {{ page.title }}
 

@@ -1,13 +1,13 @@
 ---
-title: Lemonbars
+title: Geroosterde Groentesoep
 layout: default.liquid
 data:
-  category: Bakken
+  category: Dinner - Soep
   prep_time: 15 min
   cook_time: 45 min
   description: A short description about the recipe
 tags:
-- Makkelijk
+- Vegetarisch
 is_draft: true
 ---
 # {{ page.title }}

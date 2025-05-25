@@ -1,15 +1,15 @@
 ---
-title: Geroosterde Groentesoep
-tags:
-- Tag 1
-- Tag 2
+title: Chili con Carne
 layout: default.liquid
-is_draft: true
 data:
+  category: Dinner - Rijst
+  prep_time: 30 min
   cook_time: 30 min
-  prep_time: 15 min
-  category: Soep
-  image: /path/to/image
+  description: A short description about the recipe
+tags:
+- Vlees
+- Prep
+is_draft: true
 ---
 # {{ page.title }}
 

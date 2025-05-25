@@ -7,7 +7,8 @@ data:
   cook_time: 30 min
   description: A short description about the recipe
 tags:
-- Vegeratisch
+- Vegetarisch
+- Makkelijk
 is_draft: true
 ---
 # {{ page.title }}

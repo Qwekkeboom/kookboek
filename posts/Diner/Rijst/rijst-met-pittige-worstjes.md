@@ -9,7 +9,6 @@ data:
 tags:
 - Vlees
 - Makkelijk
-is_draft: true
 ---
 # {{ page.title }}
 

@@ -9,7 +9,6 @@ data:
 tags:
 - Vegetarisch
 - Prep
-is_draft: true
 ---
 # {{ page.title }}
 

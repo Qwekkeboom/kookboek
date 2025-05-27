@@ -9,7 +9,6 @@ data:
 tags:
 - Vegetarisch
 - Makkelijk
-is_draft: true
 ---
 # {{ page.title }}
 

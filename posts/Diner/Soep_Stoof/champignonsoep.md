@@ -2,7 +2,7 @@
 title: Champignonsoep
 layout: default.liquid
 data:
-  category: Dinner - Soep
+  category: Dinner - Soep & Stoof
   prep_time: 15 min
   cook_time: 45 min
   description: A short description about the recipe

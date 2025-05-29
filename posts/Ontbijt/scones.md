@@ -5,7 +5,7 @@ data:
   category: Ontbijt
   prep_time: 15 min
   cook_time: 30 min
-  description: A short description about the recipe
+  description: Heerlijk simpel als ontbijt of bij de koffie en thee. Zijn ook nog steeds lekker een dag later na opgewarmd te zijn.
 tags:
 - Makkelijk
 ---

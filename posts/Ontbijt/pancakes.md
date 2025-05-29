@@ -5,7 +5,7 @@ data:
   category: Ontbijt
   prep_time: 15 min
   cook_time: 30 min
-  description: A short description about the recipe
+  description: Pancakes maar dan zonder 500 pounds boter
 tags:
 - Makkelijk
 ---

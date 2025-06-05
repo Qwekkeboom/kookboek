@@ -8,7 +8,6 @@ data:
   description: A short description about the recipe
 tags:
 - Vegetarisch
-is_draft: true
 ---
 # {{ page.title }}
 

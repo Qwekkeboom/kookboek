@@ -9,18 +9,27 @@ data:
 tags:
 - Vegetarisch
 - Makkelijk
-is_draft: true
 ---
 # {{ page.title }}
 
 Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
 ## Ingrediënten
-- Ingredient 1
-- Ingredient 2
-- Ingredient 3
+- komkommer
+- snoeptomaatjes
+- parelcouscous
+- feta
+- winterpeen
+- bouillon blokje
+- pijnboompitten
+- oregano
+- olijfolie
 
 ## Bereiding
-1. Step one
-2. Step two
-3. Step three
+1. Bereid de couscous volgens de verpakking in warm water met het bouillon blokje
+2. Rooster een handje vol pijnboompitten in een koekenpan over laag vuur
+3. Snij de groentes fijn. Het liefst met een mandoline
+4. Snij de feta in kleine blokjes
+5. Voeg alle groente en de feta toe aan een kom met wat olijfolie
+6. Breng alles op smaak met wat oregano en een beetje peper
+7. Laat de couscous uitlekken en meng deze door de groente

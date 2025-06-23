@@ -16,13 +16,17 @@ Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.c
 
 ## Ingrediënten
 - 500 g broccoli
-- 300 g zoete aardappel
+- 500 g zoete aardappel
 - 300 g courgette
 - 2 uien
+- 3 teentjes knoflook
 - 2 blikken linzen
 - 2 blikken kokosmelk
-- bouillonblokje
 - currypasta
+- bouillonblokje
+- komijnpoeder
+- kerriepoeder
+- chiliflakes
 
 ## Bereiding
 1. Snij de broccoli in kleine roosjes en de aardappel in kleine blokjes
@@ -32,6 +36,6 @@ Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.c
 5. Voeg de currypasta toe en bak deze kort mee
 6. Voeg de kokosmelk en het bouillonblokje toe en breng het geheel rustig aan de kook
 7. Voeg nu de broccoli en de aardappelblokjes toe
-8. Voeg de linzen toe met (een deel van) het vocht
-9. Verwarm het geheel nog rustig door
+8. Giet de linzen af en voeg deze toe aan de curry
+9. Verwarm het geheel nog rustig door en voeg eventueel nog wat maizena toe om de saus iets in te dikken
 10. Server met een lekker naanbrood of flatbread

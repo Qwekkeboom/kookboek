@@ -13,7 +13,7 @@ tags:
 
 Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
-## Ingrediënten (voor 4)
+## Ingrediënten (voor 3-4)
 - 200 gram (griekse) yoghurt
 - 150 gram bloem
 - 2 tl bakpoeder

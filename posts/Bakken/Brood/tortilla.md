@@ -5,7 +5,7 @@ data:
   category: Bakken - Brood
   prep_time: 15 min
   cook_time: 15 min
-  description: Simpele tortilla's
+  description: Simpele tortilla's. Veel beter dan die uit de super
 tags:
 - Makkelijk
 ---

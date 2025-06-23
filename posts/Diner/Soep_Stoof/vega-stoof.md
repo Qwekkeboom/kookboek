@@ -5,7 +5,7 @@ data:
   category: Dinner - Soep & Stoof
   prep_time: 30 min
   cook_time: 60 min
-  description: A short description about the recipe
+  description: Een vegetarische stoofpot vol van smaak
 tags:
 - Vegetarisch
 - Prep

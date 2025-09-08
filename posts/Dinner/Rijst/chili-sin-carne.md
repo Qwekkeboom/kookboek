@@ -1,13 +1,13 @@
 ---
-title: Chili con Carne
+title: Chili sin Carne
 layout: default.liquid
 data:
   category: Dinner - Rijst
   prep_time: 30 min
-  cook_time: 30 min
+  cook_time: 60 min
   description: A short description about the recipe
 tags:
-- Vlees
+- Vegetarisch
 - Prep
 ---
 # {{ page.title }}
@@ -15,11 +15,13 @@ tags:
 Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
 ## Ingrediënten
-- 1 kg half-om-half gehakt
-- 1 blik tomaten blokjes
-- 2 blikken kidney bonen
+- 200 gram rode linzen
 - 2 uien
 - 5 teentjes knoflook
+- 2 paprika's
+- 1 blik tomaten blokjes
+- 2 blikken kidney bonen
+- 1 blikje mais
 - 1 blikje tomatenpuree
 - 1 blik tomatensaus
 - 2-4 gedroogde pepertjes (naar smaak)

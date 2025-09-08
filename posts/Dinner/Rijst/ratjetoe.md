@@ -17,7 +17,7 @@ Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.c
 ## Ingrediënten
 - 2 aubergine
 - 1 pot geroosterde paprika
-- 2 blikken Tomaten blokjes
+- 2 blikken tomaten blokjes
 - blauwe kaas
 - walnoten
 - rijst

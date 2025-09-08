@@ -4,7 +4,7 @@ layout: default.liquid
 data:
   category: Dinner - Pasta
   prep_time: 30 min
-  description: A short description about the recipe
+  description: Lasagne is lekkerder een dag later
   cook_time: 30 min
 tags:
 - Vegetarisch

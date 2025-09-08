@@ -5,7 +5,7 @@ data:
   category: Dinner - Rijst
   prep_time: 15 min
   cook_time: 30 min
-  description: A short description about the recipe
+  description: Een recept gevonden door het samen gooien van wat restjes
 tags:
 - Vegetarisch
 - Makkelijk

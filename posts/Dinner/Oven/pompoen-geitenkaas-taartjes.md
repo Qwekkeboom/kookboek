@@ -5,7 +5,7 @@ data:
   category: Dinner - Oven
   prep_time: 30 min
   cook_time: 20 min
-  description: A short description about the recipe
+  description: Heel lekker maar lastig te eten
 tags:
 - Vegetarisch
 ---

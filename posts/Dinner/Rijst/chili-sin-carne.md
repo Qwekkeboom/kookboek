@@ -5,7 +5,7 @@ data:
   category: Dinner - Rijst
   prep_time: 30 min
   cook_time: 60 min
-  description: A short description about the recipe
+  description: Chili maar dan zonder vlees
 tags:
 - Vegetarisch
 - Prep

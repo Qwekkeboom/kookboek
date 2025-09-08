@@ -3,9 +3,9 @@ title: Parel Couscous met Feta
 layout: default.liquid
 data:
   category: Dinner - Salade
-  prep_time: 30 min
-  cook_time: 30 min
-  description: A short description about the recipe
+  prep_time: 5 min
+  cook_time: 15 min
+  description: Super lekker en super snel klaar
 tags:
 - Vegetarisch
 - Makkelijk

@@ -5,7 +5,7 @@ data:
   category: Dinner - Soep & Stoof
   prep_time: 15 min
   cook_time: 45 min
-  description: A short description about the recipe
+  description: Smaakbom maar toch tomatensoep
 tags:
 - Vegetarisch
 ---

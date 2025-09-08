@@ -5,7 +5,7 @@ data:
   category: Dinner - Pasta
   prep_time: 30 min
   cook_time: 15 min
-  description: A short description about the recipe
+  description: Pesto is toch wel erg lekker
 tags:
 - Makkelijk
 - Vegetarisch

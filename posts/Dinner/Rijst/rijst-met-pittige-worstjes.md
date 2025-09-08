@@ -5,7 +5,7 @@ data:
   category: Dinner - Rijst
   prep_time: 30 min
   cook_time: 30 min
-  description: A short description about the recipe
+  description: 1 pan en een lekker gerecht
 tags:
 - Vlees
 - Makkelijk

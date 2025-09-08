@@ -5,7 +5,7 @@ data:
   category: Dinner - Rijst
   prep_time: 30 min
   cook_time: 30 min
-  description: A short description about the recipe
+  description: Bonen = Eiwitten
 tags:
 - Vegetarisch
 - Makkelijk

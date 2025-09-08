@@ -5,7 +5,7 @@ data:
   category: Dinner - Pasta
   prep_time: 15 min
   cook_time: 30 min
-  description: A short description about the recipe
+  description: 
 tags:
 - Makkelijk
 - Vis
@@ -23,8 +23,8 @@ Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.c
 
 ## Bereiding
 1. Kook de pasta al dente met wat zout
-2. Snij de tomaat in blokjes en de ui in ringen
-3. Was de ui af en bak deze kort in een pan met een klein beetje olie
+2. Snij de tomaat in blokjes en de bosui in ringen
+3. Was de bosui af en bak deze kort in een pan met een klein beetje olie
 4. Voeg de zalm en tomaat toe en bak alles nog even kort door
 5. Voeg de creme fraise toe en meng alles door elkaar
 6. Giet de pasta af en voeg deze bij de saus

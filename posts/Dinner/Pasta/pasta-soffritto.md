@@ -5,7 +5,7 @@ data:
   category: Dinner - Pasta
   prep_time: 30 min
   cook_time: 45 min
-  description: A short description about the recipe
+  description: Bolognese maar dan anders
 tags:
 - Vegetarisch
 - Prep
@@ -15,11 +15,11 @@ tags:
 Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
 ## Ingrediënten
-- 2-3 uien
-- 3 penen
-- 1 stek bleekselderij
-- 3 blikken gepelde tomaten
-- 1 blik tomatenpuree
+- uien (1/3)
+- penen (1/3)
+- bleekselderij (1/3)
+- blik gepelde tomaten
+- blik tomatenpuree
 - verse basilicum
 - oregano
 

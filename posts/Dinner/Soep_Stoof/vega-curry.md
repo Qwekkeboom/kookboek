@@ -5,7 +5,7 @@ data:
   category: Dinner - Soep & Stoof
   prep_time: 30 min
   cook_time: 30 min
-  description: Lekkere vega curry borden vol groente
+  description: Lekkere vega curry vol groente
 tags:
 - Vegetarisch
 - Prep

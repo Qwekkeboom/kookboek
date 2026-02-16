@@ -1,7 +1,6 @@
 ---
 title: Vega Lasagne
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Pasta
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 300 gram koelverse lasagne bladen
 - 200 gram geraspte kaas

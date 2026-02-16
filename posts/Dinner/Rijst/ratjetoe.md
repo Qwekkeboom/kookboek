@@ -1,7 +1,6 @@
 ---
 title: Ratjetoe
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Rijst
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 2 aubergine
 - 1 pot geroosterde paprika

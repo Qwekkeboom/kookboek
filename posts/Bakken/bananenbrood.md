@@ -14,9 +14,6 @@ data:
 tags:
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - Ingredient 1
 - Ingredient 2

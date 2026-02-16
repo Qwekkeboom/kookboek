@@ -1,5 +1,5 @@
 ---
-title: Geroosterde Groentesoep
+title: Geroosterde Tomatensoep
 layout: default.liquid
 is_draft: true
 data:
@@ -15,9 +15,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 1 l groente bouillon
 - 400 ml kokosmelk

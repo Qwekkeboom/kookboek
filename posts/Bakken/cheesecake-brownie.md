@@ -1,7 +1,6 @@
 ---
 title: Cheesecake-Brownie
 layout: default.liquid
-is_draft: true
 data:
   category: Bakken
   subcategory: Overig
@@ -14,9 +13,6 @@ data:
 tags:
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - Ingredient 1
 - Ingredient 2

@@ -1,7 +1,6 @@
 ---
 title: Vega Curry
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Soep Stoof
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 500 g broccoli
 - 500 g zoete aardappel

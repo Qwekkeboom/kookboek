@@ -1,7 +1,6 @@
 ---
 title: Ovenplaat Gnocchi
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Pasta
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 1 rode ui
 - 400 gram koelverse gnocchi

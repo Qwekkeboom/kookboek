@@ -1,7 +1,6 @@
 ---
 title: Vega Stoof
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Soep Stoof
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 500g paprika's
 - 500g peen

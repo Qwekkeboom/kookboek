@@ -1,7 +1,6 @@
 ---
 title: Chili sin Carne
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Rijst
@@ -15,9 +14,6 @@ tags:
 - Vlees
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 200 gram rode linzen
 - 2 uien

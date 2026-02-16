@@ -1,7 +1,6 @@
 ---
 title: Parel Couscous met Feta
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Salade
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - komkommer
 - snoeptomaatjes

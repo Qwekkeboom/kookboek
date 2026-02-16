@@ -1,7 +1,6 @@
 ---
 title: Wentelteefjes met Perzik
 layout: default.liquid
-is_draft: true
 data:
   category: Ontbijt
   subcategory: Overig
@@ -15,8 +14,6 @@ tags:
 - Vlees
 ---
 # {{ page.title }}
-
-
 
 ## Ingrediënten
 - Perzik uit blik

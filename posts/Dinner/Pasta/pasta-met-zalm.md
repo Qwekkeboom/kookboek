@@ -1,7 +1,6 @@
 ---
 title: Pasta met Zalm
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Pasta
@@ -15,9 +14,6 @@ tags:
 - Vis
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 1 bosje bosui
 - 4 tomaten

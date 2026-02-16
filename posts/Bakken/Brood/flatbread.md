@@ -1,7 +1,6 @@
 ---
 title: Flatbread
 layout: default.liquid
-is_draft: true
 data:
   category: Bakken
   subcategory: Brood
@@ -14,9 +13,6 @@ data:
 tags:
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten (voor 3-4)
 - 200 gram (griekse) yoghurt
 - 150 gram bloem

@@ -1,7 +1,6 @@
 ---
 title: Rijst met Pittige Worstjes
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Rijst
@@ -15,9 +14,6 @@ tags:
 - Vlees
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 1 rode ui
 - 1 chili peper

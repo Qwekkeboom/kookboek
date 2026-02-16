@@ -1,7 +1,6 @@
 ---
 title: Paprika Schnitzel
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Rijst
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 400 ml creme fraîche
 - 2 uien

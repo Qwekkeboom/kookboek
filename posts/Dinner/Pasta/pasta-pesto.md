@@ -1,7 +1,6 @@
 ---
 title: Pasta Pesto
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Pasta
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 50 gram pijnboompitten
 - 250 gram Parmezaanse kaas

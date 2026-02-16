@@ -1,7 +1,6 @@
 ---
 title: Kikkererwten met Griekse Yoghurt
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Salade
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 1 rode ui
 - 1 blik kikkererwten

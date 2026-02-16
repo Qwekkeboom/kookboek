@@ -1,7 +1,6 @@
 ---
 title: Brownies
 layout: default.liquid
-is_draft: true
 data:
   category: Bakken
   subcategory: Overig
@@ -14,9 +13,6 @@ data:
 tags:
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 100 gram patentbloem
 - 1 gram bakpoeder

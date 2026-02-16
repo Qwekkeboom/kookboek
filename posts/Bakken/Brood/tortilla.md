@@ -1,7 +1,6 @@
 ---
 title: Tortilla
 layout: default.liquid
-is_draft: true
 data:
   category: Bakken
   subcategory: Brood
@@ -14,9 +13,6 @@ data:
 tags:
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten (voor 2-3 tortilla's)
 - 130 gram bloem
 - 80 ml warm water

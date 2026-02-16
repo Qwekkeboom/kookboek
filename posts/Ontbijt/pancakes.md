@@ -1,7 +1,6 @@
 ---
 title: Pancakes
 layout: default.liquid
-is_draft: true
 data:
   category: Ontbijt
   subcategory: Overig
@@ -15,8 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
 
 ## Ingrediënten (4-6)
 - 1 ei

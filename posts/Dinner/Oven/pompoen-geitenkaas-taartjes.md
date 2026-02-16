@@ -1,7 +1,6 @@
 ---
 title: Pompoen-Geitenkaas Taartjes
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Oven
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 2 rode uien
 - 500 gram pompoen

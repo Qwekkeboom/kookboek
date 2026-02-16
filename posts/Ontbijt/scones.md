@@ -1,7 +1,6 @@
 ---
 title: Scones
 layout: default.liquid
-is_draft: true
 data:
   category: Ontbijt
   subcategory: Overig
@@ -15,8 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-Voorbereiding: {{ page.data.prep_time }} | Baktijd: {{ page.data.cook_time }}
 
 ## Ingrediënten
 - 100 gram roomboter

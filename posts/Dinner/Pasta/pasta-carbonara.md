@@ -15,9 +15,6 @@ tags:
 - Vlees
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 4 eieren
 - 200 gram Parmezaanse kaas

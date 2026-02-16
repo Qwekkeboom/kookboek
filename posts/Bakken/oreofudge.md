@@ -1,7 +1,6 @@
 ---
 title: Oreofudge
 layout: default.liquid
-is_draft: true
 data:
   category: Bakken
   subcategory: Overig
@@ -14,9 +13,6 @@ data:
 tags:
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 1 blik gecondenseerde melk
 - 1 rol oreokoekjes

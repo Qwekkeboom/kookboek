@@ -1,7 +1,6 @@
 ---
 title: Chili con Carne
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Rijst
@@ -15,9 +14,6 @@ tags:
 - Vlees
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 1 kg half-om-half gehakt
 - 1 blik tomaten blokjes

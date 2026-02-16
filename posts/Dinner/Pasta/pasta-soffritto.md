@@ -1,7 +1,6 @@
 ---
 title: Pasta Soffritto
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Pasta
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - uien (1/3)
 - penen (1/3)

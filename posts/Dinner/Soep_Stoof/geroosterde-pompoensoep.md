@@ -1,7 +1,6 @@
 ---
 title: Geroosterde Pompoensoep
 layout: default.liquid
-is_draft: true
 data:
   category: Dinner
   subcategory: Soep Stoof
@@ -15,9 +14,6 @@ tags:
 - Vegetarisch
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - 1 l groente bouillon
 - 200 gram cottage cheese

@@ -15,9 +15,6 @@ tags:
 - Vis
 ---
 # {{ page.title }}
-
-
-
 ## Ingrediënten
 - Ingredient 1
 - Ingredient 2

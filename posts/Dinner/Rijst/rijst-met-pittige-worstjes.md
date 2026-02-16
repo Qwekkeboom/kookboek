@@ -1,18 +1,22 @@
 ---
 title: Rijst met Pittige Worstjes
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Rijst
+  category: Dinner
+  subcategory: Rijst
   prep_time: 30 min
   cook_time: 30 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: 1 pan en een lekker gerecht
 tags:
 - Vlees
-- Makkelijk
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - 1 rode ui

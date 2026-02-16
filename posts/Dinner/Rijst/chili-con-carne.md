@@ -1,18 +1,22 @@
 ---
 title: Chili con Carne
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Rijst
+  category: Dinner
+  subcategory: Rijst
   prep_time: 30 min
   cook_time: 60 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: I make a dope chili!
 tags:
 - Vlees
-- Prep
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - 1 kg half-om-half gehakt

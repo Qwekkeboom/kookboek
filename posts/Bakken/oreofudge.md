@@ -1,17 +1,21 @@
 ---
 title: Oreofudge
 layout: default.liquid
+is_draft: true
 data:
   category: Bakken
+  subcategory: Overig
   prep_time: 30 min
   cook_time: 60 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: A short description about the recipe
 tags:
-- Makkelijk
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - 1 blik gecondenseerde melk

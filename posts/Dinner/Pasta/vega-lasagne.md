@@ -1,18 +1,22 @@
 ---
 title: Vega Lasagne
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Pasta
+  category: Dinner
+  subcategory: Pasta
   prep_time: 30 min
-  description: Lasagne is lekkerder een dag later
   cook_time: 30 min
+  total_time: ""
+  servings: ""
+  image: ""
+  description: Lasagne is lekkerder een dag later
 tags:
 - Vegetarisch
-- Prep
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - 300 gram koelverse lasagne bladen

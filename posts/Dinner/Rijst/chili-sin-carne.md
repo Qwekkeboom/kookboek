@@ -1,18 +1,22 @@
 ---
 title: Chili sin Carne
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Rijst
+  category: Dinner
+  subcategory: Rijst
   prep_time: 30 min
   cook_time: 60 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: Chili maar dan zonder vlees
 tags:
-- Vegetarisch
-- Prep
+- Vlees
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - 200 gram rode linzen

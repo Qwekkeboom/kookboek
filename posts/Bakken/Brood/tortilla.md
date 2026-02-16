@@ -1,17 +1,21 @@
 ---
 title: Tortilla
 layout: default.liquid
+is_draft: true
 data:
-  category: Bakken - Brood
+  category: Bakken
+  subcategory: Brood
   prep_time: 15 min
   cook_time: 15 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: Simpele tortilla's. Veel beter dan die uit de super
 tags:
-- Makkelijk
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten (voor 2-3 tortilla's)
 - 130 gram bloem

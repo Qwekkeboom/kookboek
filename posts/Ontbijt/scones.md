@@ -1,13 +1,18 @@
 ---
 title: Scones
 layout: default.liquid
+is_draft: true
 data:
   category: Ontbijt
+  subcategory: Overig
   prep_time: 15 min
   cook_time: 30 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: Heerlijk simpel als ontbijt of bij de koffie en thee. Zijn ook nog steeds lekker een dag later na opgewarmd te zijn.
 tags:
-- Makkelijk
+- Vegetarisch
 ---
 # {{ page.title }}
 

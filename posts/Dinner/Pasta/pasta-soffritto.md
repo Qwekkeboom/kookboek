@@ -1,18 +1,22 @@
 ---
 title: Pasta Soffritto
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Pasta
+  category: Dinner
+  subcategory: Pasta
   prep_time: 30 min
   cook_time: 45 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: Bolognese maar dan anders
 tags:
 - Vegetarisch
-- Prep
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - uien (1/3)

@@ -1,17 +1,22 @@
 ---
 title: Kikkererwten met Griekse Yoghurt
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Salade
+  category: Dinner
+  subcategory: Salade
   prep_time: 5 min
   cook_time: 15 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: Frisse salade
 tags:
 - Vegetarisch
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - 1 rode ui

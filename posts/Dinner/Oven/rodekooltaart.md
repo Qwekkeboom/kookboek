@@ -1,17 +1,18 @@
 ---
-title: Lemonbars
+title: Rodekooltaart
 layout: default.liquid
 is_draft: true
 data:
-  category: Bakken
-  subcategory: Overig
+  category: Dinner
+  subcategory: Oven
   prep_time: 15 min
-  cook_time: 45 min
+  cook_time: 30 min
   total_time: ""
   servings: ""
   image: ""
   description: A short description about the recipe
 tags:
+- Vegetarisch
 ---
 # {{ page.title }}
 

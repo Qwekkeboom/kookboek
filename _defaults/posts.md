@@ -3,19 +3,19 @@ title: Recipe Title
 layout: default.liquid
 data: {
   category: Dinner,
+  subcategory: Overig,
   prep_time: 15 min,
   cook_time: 30 min,
+  total_time: 45 min,
+  servings: 2-4,
+  image: assets/images/example.jpg,
   description: A short description about the recipe
 }
-tags:
-  - Tag 1
-  - Tag 2
+tags: []
 is_draft: true
 ---
 
 # {{ page.title }}
-
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
 
 ## Ingrediënten
 - Ingredient 1

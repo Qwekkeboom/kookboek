@@ -1,18 +1,22 @@
 ---
 title: Pasta Carbonara
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Pasta
+  category: Dinner
+  subcategory: Pasta
   prep_time: 15 min
   cook_time: 30 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: A short description about the recipe
 tags:
-- Makkelijk
-is_draft: true
+- Vlees
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - 4 eieren

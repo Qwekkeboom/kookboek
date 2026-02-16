@@ -1,18 +1,22 @@
 ---
 title: Pasta Pesto
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Pasta
+  category: Dinner
+  subcategory: Pasta
   prep_time: 30 min
   cook_time: 15 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: Pesto is toch wel erg lekker
 tags:
-- Makkelijk
 - Vegetarisch
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - 50 gram pijnboompitten

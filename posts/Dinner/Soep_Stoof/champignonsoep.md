@@ -1,18 +1,22 @@
 ---
 title: Champignonsoep
 layout: default.liquid
+is_draft: true
 data:
-  category: Dinner - Soep & Stoof
+  category: Dinner
+  subcategory: Soep Stoof
   prep_time: 15 min
   cook_time: 45 min
+  total_time: ""
+  servings: ""
+  image: ""
   description: A short description about the recipe
 tags:
-- Vegetarisch
-is_draft: true
+- Vlees
 ---
 # {{ page.title }}
 
-Voorbereidingstijd: {{ page.data.prep_time }} | Kook- of baktijd: {{ page.data.cook_time }}
+
 
 ## Ingrediënten
 - Ingredient 1

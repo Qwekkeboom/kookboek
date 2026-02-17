@@ -33,6 +33,10 @@ jobs:
         run: |
           cobalt build --destination _site --config _cobalt.prod.yml
 
+      - name: Add custom domain file
+        run: |
+          cp CNAME _site/CNAME
+
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
         with:

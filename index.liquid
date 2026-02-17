@@ -22,7 +22,6 @@ title: Kookboek
     <h2 class="category-title">{{ category }}</h2>
     <div class="category-rule"></div>
   </div>
-
   {% for subcategory in subcategories %}
   {% if subcategory != "" %}
   <div class="subcategory-block">
@@ -42,17 +41,14 @@ title: Kookboek
         <img class="card-image" src="{{ site.base_url }}/assets/images/category-dinner.svg" alt="Dinner">
         {% endif %}
       {% endif %}
-
       <div class="card-content">
         <div class="badges">
           <span class="badge">{{ post.data.category }}</span>
         </div>
-
         <h3 class="card-title"><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
         {% if post.data.description %}
         <p class="card-desc">{{ post.data.description }}</p>
         {% endif %}
-
         {% if post.tags %}
         <div class="badges">
           {% for tag in post.tags %}

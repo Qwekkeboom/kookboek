@@ -21,18 +21,15 @@
       {% if page.data.category or page.data.prep_time or page.data.cook_time or page.data.servings or page.data.total_time %}
         {% assign is_recipe = true %}
       {% endif %}
-
       {% if is_recipe %}
       <article class="recipe-article">
         {% if page.title %}
         <h1 class="recipe-title">{{ page.title }}</h1>
         {% endif %}
-
         {% assign has_meta = false %}
         {% if page.data.servings or page.data.total_time or page.data.prep_time or page.data.cook_time %}
           {% assign has_meta = true %}
         {% endif %}
-
         {% if has_meta %}
         <div class="recipe-meta">
           {% if page.data.servings %}
@@ -49,7 +46,6 @@
           {% endif %}
         </div>
         {% endif %}
-
         {{ page.content }}
       </article>
       {% else %}
@@ -59,9 +55,5 @@
       {% endif %}
     </div>
   </main>
-
-  <footer>
-    <div class="container">Kookboek - met liefde verzameld</div>
-  </footer>
 </body>
 </html>

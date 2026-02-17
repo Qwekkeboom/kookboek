@@ -1,6 +1,0 @@
-site:
-  title: Kookboek
-  description: Een collectie van recepten verzameld over de jaren heen
-  base_url: ""
-posts:
-  rss: rss.xml

@@ -31,7 +31,7 @@ jobs:
 
       - name: Build the site
         run: |
-          cobalt build --destination _site --config _cobalt.prod.yml
+          cobalt build --destination _site --config _cobalt.yml
 
       - name: Add custom domain file
         run: |

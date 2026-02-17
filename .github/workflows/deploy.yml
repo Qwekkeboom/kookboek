@@ -31,7 +31,7 @@ jobs:
 
       - name: Build the site
         run: |
-          cobalt build --destination _site
+          cobalt build --destination _site --config _cobalt.yml,_cobalt.prod.yml
 
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
